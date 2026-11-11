@@ -163,5 +163,3 @@ This indicates an experienced Threat Actor, not a random attack.
 - [ ] Review network segmentation policies.
 
 ---
-
-## 8. Repository Structure
