@@ -9,7 +9,7 @@ only and do not represent a real incident.
 ## Reporting a Vulnerability
 
 If you discover a real security issue related to the content of this
-repository, please contact [your-email@example.com] instead of opening a
+repository, please contact to me instead of opening a
 public issue.
 
 ## Legal Notice
